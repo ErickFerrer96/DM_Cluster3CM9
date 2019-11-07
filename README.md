@@ -21,5 +21,5 @@ Todo viene en el archivo Happiness.R.
 
 |Index| Descripción | Imagen |
 | ---| --- | --- |
-| 1 | Parametros que toma en cuenta el clustering | <img src="Imagenes/Indicadores.png" width=150 heigth="300"> |
-| 2 | Resultado de 6 clusters | <img src="Imagenes/Mapa.png" width=150 heigth="300"> |
+| 1 | Parametros que toma en cuenta el clustering | <img src="Imagenes/Indicadores.png" width="500" heigth="300"> |
+| 2 | Resultado de 6 clusters | <img src="Imagenes/Mapa.png" width="300" heigth="600"> |
