@@ -1,10 +1,6 @@
 # DM_Cluster3CM9
 Examen practico de la materia Data Mining sobre clustering realizado en R.
 
-# Segunda practica del framework flutter con el lenguaje dart.
-
-Aplicacion móvil probada en simulador para IOS, con una compilación de componentes.
-
 # Requerimientos 
 
 Instalar R Studio.
@@ -19,6 +15,6 @@ Todo viene en el archivo Happiness.R.
 
 ## Documentacion de Flutter usada en este proyecto
 
-[Documentación](https://docs.rstudio.com)
+[Documentación de R](https://docs.rstudio.com)
 
 ## Galeria
